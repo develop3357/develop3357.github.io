@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'ko-kr'
+title = 'jihyeonkim.dev'
+theme = 'holy'
