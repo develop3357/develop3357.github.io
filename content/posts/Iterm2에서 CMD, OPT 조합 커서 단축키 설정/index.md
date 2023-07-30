@@ -1,7 +1,7 @@
 ---
 title: "Iterm2에서 CMD, OPT 조합 커서 단축키 설정"
 date: 2023-07-30T12:10:29+09:00
-draft: true
+draft: false
 ---
 
 Iterm2에서 아래 동작이 안 된다면 설정을 변경해야 한다.
